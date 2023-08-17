@@ -1,0 +1,588 @@
+Uri: http://www.vyborg-fundament.ru/
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\index.htm
+Content Type: text/html
+
+Uri: http://www.vyborg-fundament.ru/css/faktor-vibora-fundamenta.css
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\faktor-vibora-fundamenta.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/css/index.css?crc=4244252149
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\index.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/css/kalkulator-svai.css?crc=355682934
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\kalkulator-svai.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/css/master_______-a.css
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\master_______-a-1.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/css/master_______-a.css?crc=4037440659
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\master_______-a.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/css/site_global.css
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\site_global-1.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/css/site_global.css?crc=213208000
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\css\site_global.css
+Content Type: text/css
+
+Uri: http://www.vyborg-fundament.ru/faktor-vibora-fundamenta.html
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\faktor-vibora-fundamenta.html
+Content Type: text/html
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x667293x196.jpg?crc=264714686
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x667293x196.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x667293x1962.jpg?crc=41896031
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x667293x1962.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x667293x1963.jpg?crc=240083557
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x667293x1963.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x667293x1964.jpg?crc=4087665401
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x667293x1964.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x6675.jpg?crc=3902976871
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x6675.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x6676.jpg?crc=53257197
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x6676.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1000x6677.jpg?crc=4173376171
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1000x6677.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 1080x680.jpg?crc=179637871
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 1080x680.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 366x219.jpg?crc=452794258
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 366x219.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 366x2192.jpg?crc=219372971
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 366x2192.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 367x204.jpg?crc=4050862737
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 367x204.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 371x205.jpg?crc=4104356483
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 371x205.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 387x290.jpg?crc=114831522
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 387x290.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 387x2902.jpg?crc=326631580
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 387x2902.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 387x2903.jpg?crc=4291516025
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 387x2903.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 387x2904.jpg?crc=478470543
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 387x2904.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 387x2905.jpg?crc=3994166981
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 387x2905.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 387x2906.jpg?crc=266759006
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 387x2906.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 470x312.jpg?crc=535107487
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 470x312.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u147757.png?crc=3823486502
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u147757.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u147764.png?crc=267166562
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u147764.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u147766.png?crc=3958928390
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u147766.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u147768.png?crc=3941725498
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u147768.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u147770.png?crc=339757785
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u147770.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u147772.png?crc=503410102
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u147772.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u148643.png?crc=3825902146
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u148643.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u148645.png?crc=66341151
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u148645.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u148647.png?crc=3958928390
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u148647.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u148649.png?crc=288621178
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u148649.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u148651.png?crc=4078133378
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u148651.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u148653.png?crc=3873654916
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u148653.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u149098.png?crc=3825902146
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u149098.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u149100.png?crc=288621178
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u149100.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u149102.png?crc=3873654916
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u149102.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u157290.png?crc=66341151
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u157290.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u157292.png?crc=3958928390
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u157292.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u157294.png?crc=288621178
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u157294.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 50x50-u157296.png?crc=4078133378
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 50x50-u157296.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 538x292.jpg?crc=209333269
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 538x292.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 698x698.jpg?crc=4284489674
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 698x698.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 698x6982.jpg?crc=497931001
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 698x6982.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/вставленное изображение 698x6983.jpg?crc=51502248
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\вставленное изображение 698x6983.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/фото.jpg?crc=9572909
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\фото.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/--1.png?crc=266694098
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\--1.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/--2 (2).png?crc=379332118
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\--2 (2).png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/--7.png?crc=313221170
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\--7.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/2020-02-03 213808.jpg?crc=4022062648
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\2020-02-03 213808.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/2020-02-03 214020.jpg?crc=74595645
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\2020-02-03 214020.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/5a87141227a9ab08ef06d2e5.jpg?crc=3830705754
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\5a87141227a9ab08ef06d2e5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/91e58e88f9be7770d06вп804ef0d3de599.jpg?crc=507357875
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\91e58e88f9be7770d06вп804ef0d3de599.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/b25_p1-u146267.png?crc=207224032
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\b25_p1-u146267.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/b25_p2-u146282.png?crc=3797150955
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\b25_p2-u146282.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/b25_p3-u146297.png?crc=498024680
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\b25_p3-u146297.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/checkboxcheckedmousedown.jpg?crc=4004261994
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\checkboxcheckedmousedown.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/checkboxcheckedrollover.jpg?crc=435737969
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\checkboxcheckedrollover.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u144942-m.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u144942-m.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u144942-r.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u144942-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u144942.png?crc=4234392543
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u144942.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148366-m.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148366-m.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148366-r.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148366-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148366.png?crc=4234392543
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148366.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148445-m.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148445-m.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148445-r.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148445-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148445.png?crc=4234392543
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148445.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148530-m.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148530-m.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148530-r.png?crc=3920513445
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148530-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/close-button-u148530.png?crc=4234392543
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\close-button-u148530.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/drenaz.jpg?crc=174354543
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\drenaz.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/fund lenta.png?crc=4006678446
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\fund lenta.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/fund lenta_1.jpg?crc=3981472692
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\fund lenta_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/fundament_geologia2.jpg?crc=3921872428
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\fundament_geologia2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/fundament_kiev1-u139713-fr.jpg?crc=4112747311
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\fundament_kiev1-u139713-fr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/fundament_kiev1-u149544-fr.jpg?crc=3906705229
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\fundament_kiev1-u149544-fr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/fundament_kiev1-u158587-fr.jpg?crc=3831358466
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\fundament_kiev1-u158587-fr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/geologiya_uchastka_kiev_9.jpg?crc=106094887
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\geologiya_uchastka_kiev_9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/grunt glina.jpg?crc=3959256734
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\grunt glina.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/grunt oblomochniy.jpg?crc=3780688453
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\grunt oblomochniy.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/grunt peschaniy.jpg?crc=443097541
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\grunt peschaniy.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/grunt pilevatyi.jpg?crc=210086876
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\grunt pilevatyi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/grunt skalistiy.jpg?crc=4057940768
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\grunt skalistiy.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/halyava_icon1-u148616.png?crc=3919790274
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\halyava_icon1-u148616.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/halyava_icon2-u148621.png?crc=197604184
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\halyava_icon2-u148621.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/halyava_icon3-u148627.png?crc=36847321
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\halyava_icon3-u148627.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/halyava_icon4-u148630.png?crc=3838864886
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\halyava_icon4-u148630.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/komplekt 1.jpg?crc=3921175019
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\komplekt 1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/lentfon.png?crc=497752295
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\lentfon.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/logo.png?crc=3799385074
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\logo.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/logo_new_sait_stroy_kiev_new.png?crc=3885477577
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\logo_new_sait_stroy_kiev_new.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/monolit-plita.png?crc=232331606
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\monolit-plita.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/monolitnyj-lentochnyj-fundament-1.jpg?crc=3830064631
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\monolitnyj-lentochnyj-fundament-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/monolitnyj-lentochnyj-fundament.jpg?crc=264295572
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\monolitnyj-lentochnyj-fundament.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/obustrojstvo-skvazhiny.jpg?crc=140769500
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\obustrojstvo-skvazhiny.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/overlay-transparent-imessage-8-u157637.png?crc=230890874
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\overlay-transparent-imessage-8-u157637.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/overlay-transparent-imessage-8-u165679.png?crc=230890874
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\overlay-transparent-imessage-8-u165679.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/overlay-transparent-imessage-8-u165706.png?crc=230890874
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\overlay-transparent-imessage-8-u165706.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/overlay-transparent-imessage-8-u165733.png?crc=230890874
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\overlay-transparent-imessage-8-u165733.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka1.jpg?crc=4271372505
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka2.jpg?crc=179529187
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka3.jpg?crc=307142093
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka4.jpg?crc=3764876794
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka5.jpg?crc=4014984174
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka6.jpg?crc=3841677015
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka7.jpg?crc=39540794
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka8.jpg?crc=4074634793
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/plita_besedka9.jpg?crc=517772223
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\plita_besedka9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/ris4.jpg?crc=236605956
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\ris4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/s1200.jpg?crc=3884234375
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\s1200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/s12002.jpg?crc=234402303
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\s12002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/sat1.png?crc=484494946
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\sat1.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/screenshot at apr 05 11-39-07.jpg?crc=252496234
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\screenshot at apr 05 11-39-07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/septik ekonom-3 olx.jpg?crc=194622364
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\septik ekonom-3 olx.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/septik standart-2 olx.jpg?crc=4293542548
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\septik standart-2 olx.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/septik standart-3 olx.jpg?crc=171058737
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\septik standart-3 olx.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/septik.jpg?crc=195131946
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\septik.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/steklopak6.jpg?crc=521506369
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\steklopak6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/steklopak7.jpg?crc=513748047
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\steklopak7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/steklopak8.jpg?crc=316520568
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\steklopak8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/step_icon1.png?crc=4146924326
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\step_icon1.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/step_icon4.png?crc=220753368
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\step_icon4.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/stolbchatyy_fundament.jpg?crc=85407516
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\stolbchatyy_fundament.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/subfloor-concrete.jpg?crc=4012947949
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\subfloor-concrete.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/svai_fon.jpg?crc=4257154797
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\svai_fon.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/top10-10.jpg?crc=4019964770
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\top10-10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/treshina.jpg?crc=3986902735
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\treshina.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/u165692-r.png?crc=4279110179
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\u165692-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/u165692.png?crc=98728864
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\u165692.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/u165710-r.png?crc=4279110179
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\u165710-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/u165710.png?crc=98728864
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\u165710.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/u165736-r.png?crc=4279110179
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\u165736-r.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/u165736.png?crc=98728864
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\u165736.png
+Content Type: image/png
+
+Uri: http://www.vyborg-fundament.ru/images/up_obshch_vid_pb_na_sayt.jpg?crc=46919957
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\up_obshch_vid_pb_na_sayt.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/images/uteplenie-krovli.jpg?crc=4247806938
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\images\uteplenie-krovli.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vyborg-fundament.ru/index.html
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\index.html
+Content Type: text/html
+
+Uri: http://www.vyborg-fundament.ru/kalkulator-svai.html
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\kalkulator-svai.html
+Content Type: text/html
+
+Uri: http://www.vyborg-fundament.ru/scripts/require.js?crc=7928878
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\scripts\require.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/61677046
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\watch\61677046
+Content Type: image/gif
+
+Uri: https://www.facebook.com/tr?id=267815710925111&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-138090583-1
+File Name: C:\Downloaded Web Sites\www.vyborg-fundament.ru\gtag\js
+Content Type: application/javascript
+
